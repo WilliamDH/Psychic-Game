@@ -1,0 +1,12 @@
+body {
+    margin: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color:black
+}
+body {
+    background-color: lightgrey
+}
+img.img-fluid.rounded-circle {
+    max-width: 230px;
+    max-height: 256px;
+}
